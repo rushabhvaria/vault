@@ -1,0 +1,14 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace state (keep app.json/appearance if you want shared config)
+.obsidian/workspace*.json
+.obsidian/cache
+
+# Auto-captured session summaries can be noisy / private — ignore by default.
+# Remove this line if you want session history committed.
+raw/sessions/*.md
+
+# Settings backups created by install.sh
+settings.json.bak.*
